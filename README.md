@@ -8,5 +8,5 @@
 * 更有难度的实战，基于Iowa数据集， 练习window over（）函数 [window function practice](https://github.com/slayAlphalu/SQL-learning-note/blob/master/advanced%20sql%20practice.ipynb)
 
 
-[电商常用查询](https://github.com/slayAlphalu/SQL-learning-note/blob/master/sql%20trx.ipynb)
+* 字节跳动笔试题[电商常用查询](https://github.com/slayAlphalu/SQL-learning-note/blob/master/sql%20trx.ipynb)
 * Keep update！😁
